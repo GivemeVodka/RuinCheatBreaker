@@ -1,5 +1,3 @@
 # Moved Repository
-https://github.com/RuinPvP/RuinCheatBreaker
-
+https://github.com/RuinCheatBreaker-Dev/RuinCheatBreaker
 # no more updated this Repository please join new Repohistry
-https://github.com/RuinPvP/RuinCheatBreaker
